@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mughal-dev-0.github.io/Data_Finder/sitemap.xml
+Sitemap: https://mughal-dev-0.github.io/Find_Me/sitemap.xml
